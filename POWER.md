@@ -18,6 +18,7 @@ keywords:
   - debug ui
   - accessibility test
 author: Abdelrahman Mohsen
+icon: icon.png
 ---
 
 <div align="center">
