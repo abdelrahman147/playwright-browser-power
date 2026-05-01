@@ -3,13 +3,17 @@
   
   # Playwright Browser Power
   
-  ### Give Kiro Real Eyes 👁️
+  ### Give Kiro Real Eyes
   
-  **Launch browsers, take screenshots, steal UI components, run E2E tests, and debug visually.**
+  **Launch browsers, navigate to any page, take screenshots, analyze UI visually, inspect console/network/devtools, interact with elements, test user flows, generate PDFs, steal UI components from any website, and iteratively fix issues. Kiro becomes a design-aware, visually intelligent coding partner that can see what it builds.**
   
   [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
   [![Kiro Power](https://img.shields.io/badge/Kiro-Power-purple.svg)](https://kiro.dev)
   [![Playwright](https://img.shields.io/badge/Playwright-MCP-green.svg)](https://playwright.dev)
+  
+  **If you like this power, please star the repo!** ⭐
+  
+  Created by [Abdelrahman Mohsen](https://github.com/abdelrahman147) | Follow me on [X/Twitter](https://x.com/nilue147)
   
   [Installation](#installation) • [Quick Start](#quick-start) • [Features](#features) • [Documentation](#documentation)
   
@@ -17,25 +21,17 @@
 
 ---
 
-## 🎯 What Is This?
+## What Is This?
 
-A Kiro Power that gives AI real browser automation capabilities. Kiro can now:
-
-- 🌐 **Launch real browsers** and navigate to any page
-- 📸 **Take screenshots** and analyze UI visually  
-- 🎨 **Steal UI components** from any website and recreate them
-- 🧪 **Run E2E tests** with full automation
-- 🐛 **Debug visually** with console/network/devtools inspection
-- ♿ **Check accessibility** (WCAG compliance)
-- 📊 **Test performance** (load times, network analysis)
+A Kiro Power that gives AI real browser automation capabilities using Microsoft's official Playwright MCP server.
 
 **Built on Microsoft's official Playwright MCP server.**
 
 ---
 
-## ⚡ Three Superpowers
+## Three Superpowers
 
-### 🎨 UI Stealer — Copy Any Design Instantly
+### UI Stealer — Copy Any Design Instantly
 
 Browse to **any website**, select components you like, and Kiro extracts the complete design (HTML, CSS, animations, assets) and recreates it in your project.
 
@@ -49,7 +45,7 @@ Kiro: [adapts the component]
 
 **Why it's unique:** Turns any website into your component library.
 
-### 👁️ Visual Builder — See What You Build
+### Visual Builder — See What You Build
 
 Build UI with instant visual feedback. Kiro opens your localhost, takes screenshots, identifies issues, and fixes them.
 
@@ -63,7 +59,7 @@ Kiro: [fixes code, waits for reload, verifies]
 
 **Why it's powerful:** No more alt-tabbing. Kiro sees what it builds.
 
-### 🧪 Testing Suite — Complete Test Automation
+### Testing Suite — Complete Test Automation
 
 E2E tests, visual regression, accessibility audits, performance testing — all in one power.
 
@@ -79,7 +75,7 @@ Kiro: [runs WCAG audit, provides specific fixes]
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### Option 1: Install as Kiro Power (Recommended)
 
@@ -111,11 +107,11 @@ Add to `.kiro/settings/mcp.json`:
 
 **Prerequisites:** Node.js 18+ (Chromium auto-installs on first use)
 
-📖 **Detailed installation guide:** [INSTALL.md](INSTALL.md)
+Detailed installation guide: [INSTALL.md](INSTALL.md)
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Visual Development
 
@@ -159,7 +155,7 @@ Kiro: [runs WCAG audit, reports issues with fixes]
 
 ---
 
-## ✨ Features
+## Features
 
 ### Browser Control
 - Navigate to any URL (localhost or remote)
@@ -190,9 +186,9 @@ Kiro: [runs WCAG audit, reports issues with fixes]
 
 ---
 
-## 🎯 When to Use
+## When to Use
 
-✅ **Perfect for:**
+**Perfect for:**
 - Building UI with visual feedback
 - Stealing/cloning UI from websites
 - E2E testing web applications
@@ -202,7 +198,7 @@ Kiro: [runs WCAG audit, reports issues with fixes]
 - Generating PDFs
 - Recording user flows
 
-❌ **Not ideal for:**
+**Not ideal for:**
 - Unit testing (use Jest/Vitest)
 - API-only testing (use Postman)
 - Mobile app testing (use Appium)
@@ -210,7 +206,7 @@ Kiro: [runs WCAG audit, reports issues with fixes]
 
 ---
 
-## 🛠️ Framework Integration
+## Framework Integration
 
 Works with all modern web frameworks:
 
@@ -226,27 +222,27 @@ Then just say: `"open localhost:PORT"`
 
 ---
 
-## 📚 Documentation
+## Documentation
 
 ### Core Docs
-- **[POWER.md](POWER.md)** - Complete feature documentation
-- **[INSTALL.md](INSTALL.md)** - Installation guide for all platforms
-- **[FAQ.md](FAQ.md)** - Frequently asked questions
-- **[EXAMPLES.md](EXAMPLES.md)** - Real-world examples
-- **[QUICK-REFERENCE.md](QUICK-REFERENCE.md)** - Cheat sheet
+- [POWER.md](POWER.md) - Complete feature documentation
+- [INSTALL.md](INSTALL.md) - Installation guide for all platforms
+- [FAQ.md](FAQ.md) - Frequently asked questions
+- [EXAMPLES.md](EXAMPLES.md) - Real-world examples
+- [QUICK-REFERENCE.md](QUICK-REFERENCE.md) - Cheat sheet
 
 ### Steering Files (Advanced Workflows)
-- **[overlay.md](steering/overlay.md)** - Visual overlay system
-- **[visual-feedback-loop.md](steering/visual-feedback-loop.md)** - Build → see → fix cycle
-- **[ui-stealing.md](steering/ui-stealing.md)** - Component extraction workflow
-- **[testing-suite.md](steering/testing-suite.md)** - Complete testing guide
-- **[design-thinking.md](steering/design-thinking.md)** - UI analysis and improvement
-- **[quick-recipes.md](steering/quick-recipes.md)** - 20+ ready-to-go workflows
-- **[smart-behaviors.md](steering/smart-behaviors.md)** - Agent intelligence rules
+- [overlay.md](steering/overlay.md) - Visual overlay system
+- [visual-feedback-loop.md](steering/visual-feedback-loop.md) - Build → see → fix cycle
+- [ui-stealing.md](steering/ui-stealing.md) - Component extraction workflow
+- [testing-suite.md](steering/testing-suite.md) - Complete testing guide
+- [design-thinking.md](steering/design-thinking.md) - UI analysis and improvement
+- [quick-recipes.md](steering/quick-recipes.md) - 20+ ready-to-go workflows
+- [smart-behaviors.md](steering/smart-behaviors.md) - Agent intelligence rules
 
 ---
 
-## 🔧 Configuration
+## Configuration
 
 ### Change Browser
 
@@ -270,7 +266,7 @@ Then just say: `"open localhost:PORT"`
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Browser won't launch
 ```bash
@@ -295,7 +291,7 @@ See [FAQ.md](FAQ.md) for detailed troubleshooting.
 
 ---
 
-## 🎨 Keywords That Activate This Power
+## Keywords That Activate This Power
 
 Just talk naturally — Kiro understands:
 
@@ -308,28 +304,30 @@ Just talk naturally — Kiro understands:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 We accept:
-- 🐛 Bug reports
-- 📝 Documentation improvements
-- 🎯 New steering files
-- 💡 Examples and use cases
-- 🧪 Testing and feedback
+- Bug reports
+- Documentation improvements
+- New steering files
+- Examples and use cases
+- Testing and feedback
 
 ---
 
-## 📄 License
+## License
 
 Apache 2.0 — Built on Microsoft's official Playwright MCP server.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Created by [Abdelrahman Mohsen](https://github.com/abdelrahman147)**
+
+Follow me on [X/Twitter](https://x.com/nilue147)
 
 Built with:
 - [Playwright](https://playwright.dev/) by Microsoft
@@ -338,11 +336,11 @@ Built with:
 
 ---
 
-## 🌟 Support
+## Support
 
-- 💬 **Questions?** Check the [FAQ](FAQ.md)
-- 🐛 **Issues?** See [Troubleshooting](#-troubleshooting)
-- 💡 **Need help?** Open an issue
+- Questions? Check the [FAQ](FAQ.md)
+- Issues? See [Troubleshooting](#troubleshooting)
+- Need help? Open an issue
 
 ---
 
@@ -350,8 +348,10 @@ Built with:
   
   **Ready to give Kiro eyes?**
   
-  [Install Now](#-installation) • [View Examples](EXAMPLES.md) • [Read Docs](POWER.md)
+  [Install Now](#installation) • [View Examples](EXAMPLES.md) • [Read Docs](POWER.md)
   
-  Made with 👁️ by Abdelrahman Mohsen
+  Made with care by [Abdelrahman Mohsen](https://github.com/abdelrahman147)
+  
+  **Don't forget to star the repo if you find it useful!** ⭐
   
 </div>
