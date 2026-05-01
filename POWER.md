@@ -18,11 +18,11 @@ keywords:
   - debug ui
   - accessibility test
 author: Abdelrahman Mohsen
-iconUrl: "https://raw.githubusercontent.com/abdelrahman147/playwright-browser-power/master/icon.png"
+iconUrl: "https://raw.githubusercontent.com/abdelrahman147/playwright-browser-power/master/icon.svg"
 ---
 
 <div align="center">
-  <img src="icon.png" alt="Playwright Browser Power" width="200" />
+  <img src="icon.svg" alt="Playwright Browser Power" width="200" />
   
   # Playwright Browser — Visual AI Assistant
   
