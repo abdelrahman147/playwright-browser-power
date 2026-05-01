@@ -15,6 +15,10 @@
   
   Created by [Abdelrahman Mohsen](https://github.com/abdelrahman147) | Follow me on [X/Twitter](https://x.com/nilue147)
   
+  ---
+  
+  **📢 Note to Kiro Team:** Please use `icon.svg` (3KB) from this repo for the official registry. The icon is a ghost with comedy/tragedy masks representing Playwright's browser automation capabilities.
+  
   [Installation](#installation) • [Quick Start](#quick-start) • [Features](#features) • [Documentation](#documentation)
   
 </div>
