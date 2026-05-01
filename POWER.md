@@ -533,3 +533,17 @@ You'll know this power is working well when:
 - **Node.js 18+** (the only real prerequisite)
 - **Chromium** — auto-installed on first use
 - **Dev server running** for localhost testing
+
+
+## License and Support
+
+This power integrates with [@playwright/mcp](https://github.com/microsoft/playwright-mcp) (Apache-2.0).
+
+- **License**: Apache-2.0 - [View License](https://github.com/microsoft/playwright-mcp/blob/main/LICENSE)
+- **Privacy Policy**: [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement)
+- **Support**: 
+  - Power issues: [GitHub Issues](https://github.com/abdelrahman147/playwright-browser-power/issues)
+  - Playwright MCP issues: [microsoft/playwright-mcp Issues](https://github.com/microsoft/playwright-mcp/issues)
+  - Email: [Contact via GitHub](https://github.com/abdelrahman147)
+
+We handle your information as described in the [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement).
