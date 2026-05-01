@@ -18,8 +18,6 @@ keywords:
   - debug ui
   - accessibility test
 author: Abdelrahman Mohsen
-icon: icon.svg
-iconUrl: "https://raw.githubusercontent.com/abdelrahman147/playwright-browser-power/master/icon.svg"
 ---
 
 <div align="center">
