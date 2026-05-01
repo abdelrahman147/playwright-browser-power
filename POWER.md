@@ -46,6 +46,7 @@ keywords:
   - desktop view
 author: Abdelrahman Mohsen
 icon: icon.png
+iconUrl: "https://raw.githubusercontent.com/abdelrahman147/playwright-browser-power/master/icon.png"
 ---
 
 <div align="center">
