@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icon.svg" alt="Playwright Browser Power" width="180" />
+  <img src="icon.png" alt="Playwright Browser Power" width="180" />
   
   # Playwright Browser Power
   
@@ -17,7 +17,7 @@
   
   ---
   
-  **📢 Note to Kiro Team:** Please use `icon.svg` (3KB) from this repo for the official registry. The icon is a ghost with comedy/tragedy masks representing Playwright's browser automation capabilities.
+  **📢 Note to Kiro Team:** Please use `icon.png` (32KB, full color) from this repo for the official registry. The icon is a ghost with red/green comedy/tragedy masks on a purple background, representing Playwright's browser automation capabilities.
   
   [Installation](#installation) • [Quick Start](#quick-start) • [Features](#features) • [Documentation](#documentation)
   
