@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icon.svg" alt="Playwright Browser Power" width="180" />
+  <img src="icon.png" alt="Playwright Browser Power" width="180" />
   
   # Playwright Browser Power
   
