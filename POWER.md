@@ -1,7 +1,7 @@
 ---
 name: playwright-browser
 displayName: "Playwright Browser — Visual AI Assistant"
-description: "Give Kiro real eyes. Launch browsers, navigate to any page, take screenshots, analyze UI visually, inspect console/network/devtools, interact with elements, test user flows, generate PDFs, steal UI components from any website, and iteratively fix issues. Kiro becomes a design-aware, visually intelligent coding partner that can see what it builds."
+description: "Launch browsers, take screenshots, steal UI components, run E2E tests, and debug visually. Kiro can see what it builds."
 keywords:
   - playwright
   - browser testing
@@ -45,7 +45,6 @@ keywords:
   - mobile view
   - desktop view
 author: Abdelrahman Mohsen
-icon: icon.png
 iconUrl: "https://raw.githubusercontent.com/abdelrahman147/playwright-browser-power/master/icon.png"
 ---
 
